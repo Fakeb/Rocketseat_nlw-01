@@ -1,4 +1,6 @@
 # Ecoleta
+Projeto para ajudar pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+
 ## Tecnologias
 
 - [Node.js](https://nodejs.org/en/)
